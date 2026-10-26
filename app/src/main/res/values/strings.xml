@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movies Host</string>
+    <string name="app_subtitle">Native Android host application embedding Flutter module via Gradle</string>
+    <string name="show_movies_button">Show List of Movies</string>
+    <string name="overview_title">Overview</string>
+    <string name="trailer_title">Trailer</string>
+</resources>
